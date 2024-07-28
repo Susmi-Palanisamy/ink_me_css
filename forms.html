@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Form</title>
+    <style>
+        
+        body {
+            background-image: url("forms bg.jpg");
+            background-color: black; 
+            font-family: Arial, sans-serif; 
+            margin: 0;
+            padding: 0;
+        }
+        form {
+            width: 50%;
+            margin: 50px auto;
+            background-color: rgba(192, 192, 192, 0.5); 
+            padding: 20px;
+            border-radius: 10px;
+        }
+        label {
+            display: inline-block;
+            color: white;
+            font-weight: bold;
+           
+        }
+        input[type="text"],
+        input[type="password"],
+        select {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin-bottom: 10px;
+            border: none;
+            border-radius: 5px;
+        }
+
+        input[type="submit"],
+        input[type="reset"] {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #008000; 
+            color: white;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        input[type="submit"]:hover,
+        input[type="reset"]:hover {
+            background-color: #006400; 
+        }
+
+      
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+
+        select {
+            width: calc(100% - 20px); 
+            padding: 10px;
+            margin-bottom: 10px;
+            border: none;
+            border-radius: 5px;
+        }
+
+       
+        font {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    
+        <form>
+            <label for="username"><font color="white">Name</font></label>
+            <input type="text" id="username" name="username"><br><br>
+            <label for="email"><font color="White">Email</font></label>
+            <input type="text" id="email" name="email"><br><br>
+            <label for="pwd"><font color="White">Password</font></label>
+            <input type="password" id="pwd" name="pwd"><br><br>
+            <label for="phone no"><font color="White">Phone no</font></label>
+            <input type="text" id="phone no" name="phone no"><br><br>
+            <font color="white">Choices</font>
+            <select name="Your choices" required>
+                <option value="1">Traditional & Old School Tattoo Style</option>
+                <option value="1">Neo Traditional Tattoo Style</option>
+                <option value="1">Fine Line</option>
+                <option value="1">Tribal </option>
+                <option value="1">Cybersigilism</option>
+                <option value="1">Watercolor </option>
+                <option value="1">Blackwork</option>
+                <option value="1">Realism </option>
+                <option value="1">Japanese</option>
+                <option value="1">Trash Polka</option>
+            </select><br><br>
+            <label for="gender"><font  color="White">Gender</font></label>
+            <input type="radio" name="gender" id="male" value="male">
+            <label for="male"><font color="White">Male</font></label>
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female"><font color="White">Female</font></label><br><br>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </form>
+        <center><a href="login.html">Login</a></center>
+</body>
+</html>
