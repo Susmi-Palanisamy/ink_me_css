@@ -24,7 +24,7 @@ Inked Essence Tattoo Studio is a premier tattoo destination where artistry and c
 
 ![ink_me_css](page3_css.png)
 
-
+**Exploring:** This might include details about the shop itself, its services, artists, and more. Here's a suggested structure for such a repository
 
 ![ink_me_css](page2_css.png)
 
