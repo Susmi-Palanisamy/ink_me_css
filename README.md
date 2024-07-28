@@ -17,3 +17,12 @@ Contact Form: Provides an easy way for potential clients to get in touch with us
 
 Responsive Design: Optimized for viewing on both desktop and mobile devices.
 
+![ink_me_css](page1_css.png)
+
+![ink_me_css](page2_css.png)
+
+![ink_me_css](page3_css.png)
+
+![ink_me_css](page4_css.png)
+
+![ink_me_css](page5_css.png)
