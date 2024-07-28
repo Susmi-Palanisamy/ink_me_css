@@ -12,18 +12,22 @@ Inked Essence Tattoo Studio is a premier tattoo destination where artistry and c
 
 **Features**
 
-Custom Tattoo Gallery: Showcases our artists' portfolios with a responsive grid layout.
-
-Booking System: Allows clients to book appointments online with ease.
-
-Contact Form: Provides an easy way for potential clients to get in touch with us.
-
-Responsive Design: Optimized for viewing on both desktop and mobile devices.
-
-![ink_me_css](page2_css.png)
-
-![ink_me_css](page3_css.png)
+**Custom Tattoo Gallery:** Showcases our artists' portfolios with a responsive grid layout.
 
 ![ink_me_css](page4_css.png)
 
+**Booking System:** Allows clients to book appointments online with ease.
+
 ![ink_me_css](page5_css.png)
+
+**Our Archievements:** When documenting the achievements of a tattoo shop on GitHub, it's helpful to focus on the milestones and accomplishments that highlight the shop's growth, reputation, and impact. Here’s a structured way to present these achievements:
+
+![ink_me_css](page3_css.png)
+
+
+
+![ink_me_css](page2_css.png)
+
+
+
+
